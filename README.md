@@ -1,3 +1,5 @@
 MyGitHubRepo
 ============
-Demo java project
+Demo java project. 
+
+Project -1: REST webservice
